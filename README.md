@@ -1,7 +1,5 @@
 - 👋 Hi, I’m souhayl a web developper
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning laravel framework
-- 💞️ I’m looking to collaborate on laravel projects
 - 📫 How to reach me : souhayl.ela@gmail.com
 
 <!---
