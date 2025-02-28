@@ -1,4 +1,4 @@
-👋 Hey there! I'm SOuhayl
+👋 Hey there! I'm Souhayl
 
 I'm a Full-Stack Web Developer passionate about building scalable, high-performance applications. I specialize in Laravel, Vue.js, and Inertia.js, crafting seamless user experiences with clean, maintainable code. 🚀
 
